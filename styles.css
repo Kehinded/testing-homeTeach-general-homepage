@@ -458,7 +458,7 @@ body {
 .section-title {
   padding: 8rem 9rem 2rem 9rem;
   min-height: 30rem;
-  background-image: linear-gradient(to bottom, rgba(192, 151, 40, 0.9), rgba(192, 151, 40, 0.9)), url(/images/title-img.jpg);
+  background-image: linear-gradient(to bottom, rgba(192, 151, 40, 0.9), rgba(192, 151, 40, 0.9)), url(./images/title-img.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1065,7 +1065,7 @@ body {
         transform: translateY(-0.3rem); }
 
 .footer {
-  background-image: linear-gradient(to bottom, var(--home-primary-color), var(--home-primary-color)), url(/images/footer-img.jpg) !important;
+  background-image: linear-gradient(to bottom, var(--home-primary-color), var(--home-primary-color)), url(./images/footer-img.jpg) !important;
   background-blend-mode: multiply !important;
   padding: 2rem; }
   .footer .logo-nav-box {
