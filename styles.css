@@ -1036,7 +1036,7 @@ body {
     @media only screen and (max-width: 40em) {
       .section-teachers .text-teach-box {
         flex-direction: column;
-        margin-top: 5rem; }
+        margin-top: -6rem; }
         .section-teachers .text-teach-box > * {
           margin-bottom: 1rem; } }
     .section-teachers .text-teach-box .text {
@@ -1056,7 +1056,7 @@ body {
         .section-teachers .text-teach-box .teach-btn {
           margin-left: auto;
           margin-top: 1.5rem;
-          margin-right: 2rem; } }
+          margin-right: auto; } }
       .section-teachers .text-teach-box .teach-btn .teach-link {
         text-decoration: none;
         color: #fff;
